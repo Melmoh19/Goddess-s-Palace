@@ -9,21 +9,12 @@ Goddess's Palace is an e-commerce platform offering beauty and hair products, al
 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-repo-name.git
 Open the project folder:
 
-bash
-Copy
-Edit
 cd goddesss-palace
 Run a local server (for example, using VS Code Live Server or Python’s built-in server):
 
-bash
-Copy
-Edit
 python -m http.server 5500
 Open 127.0.0.1:5500/index.html in your browser.
 
