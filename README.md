@@ -5,7 +5,7 @@ Goddess's Palace is an e-commerce platform offering beauty and hair products, al
 
 🔗 Live Demo: https://127.0.0.1:5500/index.html#Concealer
 
-📝 Project Blog Article:N/A
+📝 Project Blog Article:(https://www.linkedin.com/posts/bill-ware-8913b135a_goddesss-palace-introduction-goddesss-palace-activity-7313305055883894784-TF_c?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlnSq0BvW_CyjeqVKI9OtctuEcSjyYIyvQ)
 
 👤 Author(s) LinkedIn: https://www.linkedin.com/in/morine-melissa-199b75290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
