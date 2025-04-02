@@ -3,7 +3,9 @@ Introduction
 Goddess's Palace is an e-commerce platform offering beauty and hair products, along with in-store appointment booking services. This project showcases a user-friendly shopping experience with a responsive design.
 
 🔗 Live Demo: 127.0.0.1:5500/index.html#Concealer
+
 📝 Project Blog Article:N/A
+
 👤 Author(s) LinkedIn: https://www.linkedin.com/in/morine-melissa-199b75290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Installation
